@@ -12,11 +12,11 @@ I first discovered the link to Search Engine Optimization wasn't working, so i f
 
 Following on from that, we also had to show an understanding the difference between semantic and non-semantic elements.
 
-I discovered that it all was non-semantic elements, this means is gives us no information about its content. So I changed all the <dev> to either <section>, <article> or <aside> just so it gave it a bit more structure.
+I discovered that it all was non-semantic elements, this means is gives us no information about its content. So I changed all the dev to either section, article or aside just so it gave it a bit more structure.
 
 Below you will find my Header, Article, Aside and Footer as they look on the website
 
-![Header](assets\images\Header.jpg)
+![Header](Header.jpg)
 ![Article](assets\images\section-article-class-content.jpg)
 ![Aside](assets\images\section-aside-class-benefits.jpg)
 ![Footer](assets\images\Footer.jpg)
