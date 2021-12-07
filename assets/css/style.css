@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/*Marketing meeting image*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*Content is under article element*/
 
 .content {
     width: 75%;
@@ -128,6 +134,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Benefits which is placed under aside*/
 
 .benefits {
     margin-right: 20px;
@@ -187,6 +194,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*Footer*/
 
 .footer {
     padding: 30px;

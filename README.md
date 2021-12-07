@@ -4,11 +4,26 @@
 
 ## Our Task
 
-Our task was to resemble the mock up wesbite provided and ensure all links were working properly.
+Our task was to resemble the mock up wesbite provided and ensure all links were working properly, as per the below mock up.
 
 ![Mockup example](https://github.com/Mattdsena/homework-week1/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
-Whilst also understanding the difference between semantic and non-semantic elements. i.e. changing the code from div to either section, aside or article, just to name a few.
+I first discovered the link to Search Engine Optimization wasn't working, so i fixed that link.
 
-I first discovered the link to Search Engine Optimization wasn't working, so i fixed that 
+Following on from that, we also had to show an understanding the difference between semantic and non-semantic elements.
 
+I discovered that it all was non-semantic elements, this means is gives us no information about its content. So I changed all the <dev> to either <section>, <article> or <aside> just so it gave it a bit more structure.
+
+Below you will find my Header, Article, Aside and Footer as they look on the website
+
+![Header](assets\images\Header.jpg)
+![Article](assets\images\section-article-class-content.jpg)
+![Aside](assets\images\section-aside-class-benefits.jpg)
+![Footer](assets\images\Footer.jpg)
+
+Once I believed the code followed a logical structure as reflective on the website, I moved onto naming the image and icon elements using the alt attributes and also renamed the website to be more descriptive. 
+
+After that I went back through and double checked everything to the best I could & committed it to GitHub
+
+Please find my link to my wesbite below:
+https://mattdsena.github.io/homework-week1/
